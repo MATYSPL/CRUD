@@ -1,0 +1,79 @@
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\Mono.Cecil.dll
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\nunit.core.dll
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\nunit.core.interfaces.dll
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\nunit.util.dll
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\nunit.engine.dll
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\nunit.engine.api.dll
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\CRUD Project.exe.config
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\CRUD Project.exe
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\CRUD Project.pdb
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\Appium.Net.dll
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\BrotliSharpLib.dll
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\Castle.Core.dll
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\Dapper.dll
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\FluentAssertions.dll
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\MarkdownDeep.dll
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\nunit.framework.dll
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\RestSharp.dll
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\SeleniumExtras.PageObjects.dll
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\SharpAdbClient.dll
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\System.Buffers.dll
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\System.Memory.dll
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\System.Security.AccessControl.dll
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\System.ValueTuple.dll
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\Thinktecture.IdentityModel.Client.Net45.dll
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\Titanium.Web.Proxy.dll
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\WebDriver.dll
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\WebDriver.Support.dll
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\YamlDotNet.dll
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\BrotliSharpLib.xml
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\Castle.Core.xml
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\Dapper.xml
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\FluentAssertions.pdb
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\FluentAssertions.xml
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\MarkdownDeep.pdb
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\nunit.framework.pdb
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\nunit.framework.xml
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\RestSharp.xml
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\SharpAdbClient.pdb
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\System.Buffers.xml
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\System.Memory.xml
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\System.Security.AccessControl.xml
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\System.ValueTuple.xml
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\Thinktecture.IdentityModel.Client.Net45.pdb
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\WebDriver.xml
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\WebDriver.Support.xml
+C:\Users\piotr\source\repos\CRUD Project\bin\Debug\YamlDotNet.xml
+C:\Users\piotr\source\repos\CRUD Project\obj\Debug\App.g.cs
+C:\Users\piotr\source\repos\CRUD Project\obj\Debug\CRUD Project_Content.g.cs
+C:\Users\piotr\source\repos\CRUD Project\obj\Debug\CRUD Project_MarkupCompile.cache
+C:\Users\piotr\source\repos\CRUD Project\obj\Debug\CRUD Project_MarkupCompile.lref
+C:\Users\piotr\source\repos\CRUD Project\obj\Debug\CRUD Project.g.resources
+C:\Users\piotr\source\repos\CRUD Project\obj\Debug\CRUD_Project.Properties.Resources.resources
+C:\Users\piotr\source\repos\CRUD Project\obj\Debug\CRUD Project.csproj.GenerateResource.cache
+C:\Users\piotr\source\repos\CRUD Project\obj\Debug\CRUD Project.csproj.CopyComplete
+C:\Users\piotr\source\repos\CRUD Project\obj\Debug\CRUD Project.exe
+C:\Users\piotr\source\repos\CRUD Project\obj\Debug\CRUD Project.pdb
+C:\Users\piotr\source\repos\CRUD Project\obj\Debug\CRUD Project.csprojAssemblyReference.cache
+C:\Users\piotr\source\repos\CRUD Project\obj\Debug\CRUD.g.cs
+C:\Users\piotr\source\repos\CRUD Project\obj\Debug\CRUD.baml
